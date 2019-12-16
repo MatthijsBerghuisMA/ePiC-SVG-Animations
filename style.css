@@ -1,0 +1,16 @@
+body {
+    background-color: #474747;
+}
+
+svg {
+    max-height: 80vh;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: block;
+    margin: auto;
+    padding-top: 160px;
+    max-width: 460px;
+}
+
